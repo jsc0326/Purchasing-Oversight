@@ -2,7 +2,7 @@
 
 Tools: Python, SQL, Tableau, ChatGPT, and Excel
 
-In my current role, I identified a gap in monitoring purchases, which posed risks such as unauthorized side work, inaccuarate cost tracking, and outdated pricing. While exploring purchasing data, I realized I could provide valuable insights across multiple departments if properly structured and anallyzed. 
+In my current role, I identified a gap in monitoring purchases, which posed risks such as unauthorized side work, inaccuarate cost tracking, and outdated pricing. While exploring purchasing data, I realized I could provide valuable insights across multiple departments if properly structured and analyzed. 
 
 To illustrate this, I created a simulated invoice system. Using Python and chatGPT, I genarated realistic but clearly fake invoices, complete with vendor names inspired by my pets. I then used Excel to clean the data and create fictional work orders, featuring TV characters as customers. After building the necessary database, I used SQL for data structuring and analysis, and Tableau to create visulaizations.
 
